@@ -1,1 +1,5 @@
 len() -> Muestra cantidad de elementos/caracteres
+
+-- Funciones --
+Utilizar palabras en minúsculas separadas por guiones bajos para nombrar funciones. 
+Por ejemplo, hello_world, computer_science, send_mail_to_user, get_updates_from_user, delete_all_users
